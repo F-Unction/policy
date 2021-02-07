@@ -1,0 +1,18 @@
+{
+    "WifiDisabled": false,
+    "HomeButtonDisabled": false,
+    "ExternalStorageDisabled": false,
+    "USBDataDisabled": false,
+    "StatusBarExpandPanelDisabled": false,
+    "AdbDisabled": false,
+    "TaskButtonDisabled": false,
+    "SystemBrowserDisabled": false,
+    "ScreenCaptureDisabled": false,
+    "ChangeWallpaperDisabled": false,
+    "SendNotificationDisabled": false,
+    "DevelopmentOptionDisabled": false,
+    "RestoreFactoryDisabled": false,
+    "NetworkAccessWhitelist": [],
+    "NetworkAccessBlacklist": [],
+    "InstallPackageWhiteList": []
+}
