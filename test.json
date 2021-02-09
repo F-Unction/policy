@@ -1,5 +1,5 @@
 {
-    "ForceWebPolicy": true,
+    "ForceWebPolicy": false,
     "WifiDisabled": false,
     "HomeButtonDisabled": true,
     "ExternalStorageDisabled": false,
