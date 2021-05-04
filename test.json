@@ -1,10 +1,10 @@
 {
     "ForceWebPolicy": false,
     "WifiDisabled": false,
-    "HomeButtonDisabled": true,
+    "HomeButtonDisabled": false,
     "ExternalStorageDisabled": false,
     "USBDataDisabled": false,
-    "StatusBarExpandPanelDisabled": false,
+    "StatusBarExpandPanelDisabled": true,
     "AdbDisabled": false,
     "TaskButtonDisabled": false,
     "SystemBrowserDisabled": false,
